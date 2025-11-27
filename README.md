@@ -75,10 +75,6 @@ OpenCart → https://github.com/kkartas/Galaxy2Opencart
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkartas&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kkartas&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 📬 Contact
