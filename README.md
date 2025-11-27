@@ -16,7 +16,6 @@ My work spans enterprise system integration, ETL pipelines, and analytical tooli
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
 
 ### **Backend & Frameworks**
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
